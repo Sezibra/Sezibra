@@ -22,7 +22,7 @@ R (Programming Language) · Microsoft Excel · IBM SPSS Statistics · SQL · Tab
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/twitter.com/sezibra_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/sezibra_cs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/sezibra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sezibra/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/stackoverflow.com/users/20045666/sezibra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/20045666/sezibra" height="30" width="40" /></a>
-<a href="https://instagram.com/www.instagram.com/sezibra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/sezibra/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sezibra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sezibra" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sezibra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sezibra" height="30" width="40" /></a>
+<a href="https://instagram.com/sezibra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sezibra" height="30" width="40" /></a>
 </p>
