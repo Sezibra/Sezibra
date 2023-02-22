@@ -16,7 +16,7 @@ In addition to my technical and analytical skills, I am a passionate sports swim
 <h3 align="left">Tools and Techniques I mainly Use:</h3>
 <p align="left">
 
-SQL · Tableau · R (Programming Language) · Microsoft Excel · SPSS
+SQL · Microsoft Excel · Tableau · R (Programming Language) · SPSS
 
 
 <h3 align="left">Connect with me:</h3>
