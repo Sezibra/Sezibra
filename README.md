@@ -8,7 +8,7 @@
 <h3 align="left">Background:</h3>
 <p align="left">
 
-I am a data analyst and certified project manager. My expertise lies in the areas of collection and analysis of quantitative and qualitative data and data visualisation. I am confident about generating fast, effective and innovative research designs in order to answer real-world questions. 
+I am a data analyst and research consultant. My expertise lies in the areas of collection and analysis of quantitative and qualitative data and data visualisation. I am confident about generating fast, effective and innovative research designs in order to answer real-world questions. 
 
 In addition to my technical and analytical skills, I am a passionate sports swimmer and bassist.
 
