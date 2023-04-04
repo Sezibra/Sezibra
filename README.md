@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building up my GitHub profile with data analysis projects.
-- ⚡ I'm in love with Data :)
-- 💬 Ask me about anything data-analytics and statistics related, and I'll be happy to discuss with you.
-
-
 <h3 align="left">Background:</h3>
 <p align="left">
 
