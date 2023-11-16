@@ -3,9 +3,9 @@
 <h3 align="left">Background:</h3>
 <p align="left">
 
-I am a data analyst and research consultant. My expertise lies in the areas of collection and analysis of quantitative and qualitative data and data visualisation. I am confident about generating fast, effective and innovative research designs in order to answer real-world questions. 
+I am a data analyst and research consultant. I specialize in the analysis of quantitative and qualitative data, complemented by a knack for creating engaging and impactful data visualizations. Proficient in devising swift, innovative research methodologies to address real-world questions.
 
-In addition to my technical and analytical skills, I am a passionate sports swimmer and bassist.
+Beyond my expertise, I'm an avid sports swimmer and a dedicated bassist.
 
 
 <h3 align="left">Tools and Techniques I mainly Use:</h3>
