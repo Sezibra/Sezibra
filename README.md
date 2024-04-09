@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<h3 align="left">Background:</h3>
+<h3 align="left">Short Bio.:</h3>
 <p align="left">
 
-I am a data analyst and research consultant. I specialize in the analysis of quantitative and qualitative data, complemented by a knack for creating engaging and impactful data visualizations. Proficient in devising swift, innovative research methodologies to address real-world questions.
-
+I am a data analyst and research consultant. I specialize in the analysis of quantitative and qualitative data, complemented by a knack for creating engaging and impactful data visualizations. Proficient in devising swift, innovative research methodologies to address real-world questions. 
 Beyond my expertise, I'm an avid sports swimmer and a dedicated bassist.
 
 
