@@ -3,14 +3,14 @@
 <h3 align="left">Short Bio.:</h3>
 <p align="left">
 
-I am a data analyst and research consultant. I specialize in the analysis of quantitative and qualitative data, complemented by a knack for creating engaging and impactful data visualizations. Proficient in devising swift, innovative research methodologies to address real-world questions. 
-Beyond my expertise, I'm an avid sports swimmer and a dedicated bassist.
+As a 𝐝𝐚𝐭𝐚 𝐬𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭, I specialize in Big Data Management, Quantitative Data Analysis, Data Visualisation and Machine Learning, transforming complex data into actionable insights. I leverage innovative research approaches to address business analytics challenges, ensuring data integrity and optimizing processes. 
+Beyond my expertise, I'm an avid sports 𝐬𝐰𝐢𝐦𝐦𝐞𝐫 and a dedicated 𝐛𝐚𝐬𝐬𝐢𝐬𝐭.⁣⁣
 
 
 <h3 align="left">Tools and Techniques I mainly Use:</h3>
 <p align="left">
 
-SQL · Microsoft Excel · Tableau · R (Programming Language) · SPSS
+SQL · Python · Tableau · R · Power BI
 
 
 <h3 align="left">Connect with me:</h3>
